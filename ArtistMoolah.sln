@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistMoolah.Api", "ArtistMoolah.Api\ArtistMoolah.Api.csproj", "{5B7E38B9-D937-4B90-8409-CFDF96BEABB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistMoolah.Tests", "ArtistMoolah.Tests\ArtistMoolah.Tests.csproj", "{CDBDAAAE-31F7-492E-81D1-27FC4BB214B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistMoolah.Interfaces", "ArtistMoolah.Interfaces\ArtistMoolah.Interfaces.csproj", "{E96C1E00-FC99-47CC-9386-93A5C766B78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7E38B9-D937-4B90-8409-CFDF96BEABB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7E38B9-D937-4B90-8409-CFDF96BEABB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7E38B9-D937-4B90-8409-CFDF96BEABB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7E38B9-D937-4B90-8409-CFDF96BEABB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBDAAAE-31F7-492E-81D1-27FC4BB214B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBDAAAE-31F7-492E-81D1-27FC4BB214B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBDAAAE-31F7-492E-81D1-27FC4BB214B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBDAAAE-31F7-492E-81D1-27FC4BB214B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96C1E00-FC99-47CC-9386-93A5C766B78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96C1E00-FC99-47CC-9386-93A5C766B78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96C1E00-FC99-47CC-9386-93A5C766B78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96C1E00-FC99-47CC-9386-93A5C766B78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
